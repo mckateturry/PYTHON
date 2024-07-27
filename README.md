@@ -20,3 +20,6 @@
 ## Juego Gran Fantasia
 ![](https://github.com/mckateturry/PYTHON/blob/main/img/gran_fantasia.png?raw=true)
 
+## TIENDA (restaurante, supermercado y Farmacia) Aquí se muestra cuando se muestra el supermercado
+![](https://github.com/mckateturry/PYTHON/blob/main/img/superresfarm%20(2).png?raw=true)
+![](https://github.com/mckateturry/PYTHON/blob/main/img/superresfarm%20(1).png?raw=true)
